@@ -44,4 +44,4 @@ about.innerHTML = `
             </div>
         </div>
     </section>
-`;1
+`;
