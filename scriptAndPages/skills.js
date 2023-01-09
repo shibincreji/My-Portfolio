@@ -1,4 +1,4 @@
-let skills = document.getElementById("skills");1
+let skills = document.getElementById("skills");
 skills.innerHTML = `
 <div class="max-width">
 <h2 class="title">My skills</h2>
