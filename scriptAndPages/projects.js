@@ -106,7 +106,7 @@ projectsSection.innerHTML = `
         
            
         
-    </div>1
+    </div>
     
 
 `;
