@@ -105,7 +105,45 @@ projectsSection.innerHTML = `
         </div>
         
            
+     &nbsp;
+            
+
+            <div class="eachProjectDiv ">
+            <p class="ProjectName ">UpdateMe</p>
+            <div class="ProjectContainer">
+                <div class="ProjectImage">
+                    <img src="./images/portfolio4.png" alt="" />
+                </div>
+                 <div class="projectDescription">
+                    <p>Developed a To Do Web App.</p>
+                    <br >
+                    <p>It is an app that allows users to maintain day-to-day tasks or list everything that they have to do. We can add more tasks at any time
+                    and delete a task that is completed.</p>
+                    <br>
+                    <u style="text-decoration: underline;">TechStack :- </u>
+                    <br>
+                    <div class="techStackProject">
+                        <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                            <p> <i class="fab fa-js-square"></i> JS </p>
+    
+                    </div>
+                    <div class="ProjectLinks">
+                        <a href="https://github.com/shibincreji/todo-app"
+                            target="_blank"><button>
+                                Github</button></a>
+                                <a href="https://updateme.netlify.app/" target="_blank"><button>Demo</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
         
+        
+
     </div>
     
 
