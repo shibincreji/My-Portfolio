@@ -140,6 +140,42 @@ projectsSection.innerHTML = `
 
 
 
+        &nbsp;
+            
+
+            <div class="eachProjectDiv ">
+            <p class="ProjectName ">TRIGGER 2K23 </p>
+            <div class="ProjectContainer">
+                <div class="ProjectImage">
+                    <img src="./images/portfolio5.png" alt="" />
+                </div>
+                 <div class="projectDescription">
+                    <p>Developed a College Event Website.</p>
+                    <br >
+                    <p>It is a College Event Website developed to showcase the various technical and non-technical events, their schedules along with partcipant registration.</p>
+                    <br>
+                    <u style="text-decoration: underline;">TechStack :- </u>
+                    <br>
+                    <div class="techStackProject">
+                        <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                            <p> <i class="fab fa-js-square"></i> JS </p>
+                            <p><i class="fab fa-react"></i> React</p>
+
+    
+                    </div>
+                    <div class="ProjectLinks">
+                        <a href="https://github.com/shibincreji/trigger"
+                            target="_blank"><button>
+                                Github</button></a>
+                                <a href="https://trigger2k23.netlify.app/" target="_blank"><button>Demo</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
 
         
         
