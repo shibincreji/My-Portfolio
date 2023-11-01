@@ -1,4 +1,4 @@
-1111111$(document).ready(function () {
+11111111$(document).ready(function () {
   $(window).scroll(function () {
     // sticky navbar on scroll script
     if (this.scrollY > 20) {
