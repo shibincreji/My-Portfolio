@@ -1,4 +1,4 @@
-1111let projectsSection = document.getElementById("mainDivProjectsSection");
+11111let projectsSection = document.getElementById("mainDivProjectsSection");
 projectsSection.innerHTML = `
 
 
