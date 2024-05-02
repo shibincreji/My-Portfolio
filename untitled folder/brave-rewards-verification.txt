@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: shibincreji.netlify.app
+Token: df627d70032b9a9715446c586590fffa902c604909355cf66941676f8bf7a4e2
